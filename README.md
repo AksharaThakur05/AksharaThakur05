@@ -104,59 +104,6 @@ Tracking & Collision Evaluation
 
 ---
 
-## 💼 Professional Background
-
-### Digital Solutions Consultant — Worley
-
-I work on digital and automation solutions for engineering workflows, combining engineering knowledge with software development and data-driven problem solving.
-
-My experience includes:
-
-- Engineering automation
-- Digital solution development
-- Python applications
-- Microsoft Power Platform solutions
-- Web-based engineering tools
-- Data processing and visualization
-- CAD-related automation
-- Prototype development
-- Technical feasibility studies
-- Research and technology evaluation
-
-This experience has strengthened my ability to move from:
-
-```text
-Engineering Problem
-        ↓
-Technical Understanding
-        ↓
-Solution Architecture
-        ↓
-Prototype Development
-        ↓
-Testing & Iteration
-        ↓
-Usable Digital Solution
-```
-
-> Professional project details, client information, and proprietary engineering data are intentionally kept private.
-
----
-
-## 🎓 Education
-
-### Bachelor of Engineering in Mechanical Engineering
-
-**Datta Meghe College of Engineering**  
-University of Mumbai  
-**2017 – 2021**
-
-**CGPA: 8.93 / 10**
-
-My Mechanical Engineering background gave me a strong foundation in mechanics, engineering systems, mathematics, design, and physical problem-solving. I am now extending those foundations into robotics, intelligent systems, and autonomous machines.
-
----
-
 ## 🏆 Highlights
 
 - **Worley ki Jyoti Award**
@@ -166,36 +113,6 @@ My Mechanical Engineering background gave me a strong foundation in mechanics, e
 - Designed experiments to evaluate robotic behaviour under uncertainty
 - Experience in engineering automation, CAD-data integration, and digital workflows
 - Certified First Aider with experience supporting real workplace first-aid situations
-
----
-
-## 🧭 My Journey Into Robotics
-
-My interest in robotics began before I had the technical vocabulary to describe it.
-
-In school, I built a simple **string-actuated robotic hand**. Although it was a basic mechanical model, it sparked my curiosity about how machines could reproduce or support human motion.
-
-That interest influenced my decision to study science with both **biology and mathematics**, followed by Mechanical Engineering.
-
-My professional career later introduced me to software development, automation, data, digital engineering, and technical prototyping.
-
-Today, I am bringing these paths together through robotics.
-
-```text
-Mechanical Engineering
-        ↓
-Engineering Automation
-        ↓
-Software & Digital Systems
-        ↓
-Perception + Estimation + Planning + Control
-        ↓
-Autonomous Robotics
-        ↓
-Assistive & Medical Robotics
-```
-
----
 
 ## 🎯 Current Focus
 
@@ -261,10 +178,6 @@ I am especially interested in projects that require:
 I am interested in connecting with researchers, students, and engineers working in:
 
 **Robotics • Autonomous Systems • Computer Vision • Robot Perception • State Estimation • Assistive Robotics • Medical Robotics**
-
-📍 Mumbai, India  
-💼 LinkedIn: **Add your LinkedIn URL here**  
-📧 Email: **Add your professional email here**
 
 ---
 
