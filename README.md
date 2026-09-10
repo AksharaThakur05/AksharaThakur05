@@ -25,6 +25,48 @@ assets/
 
 ---
 
+# 🧰 Technology Stack
+
+### Core Development
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+### Algorithms / Robotics / Vision
+
+<p>
+  <img src="https://img.shields.io/badge/Kalman-Filtering-8E44AD?style=flat-square" />
+  <img src="https://img.shields.io/badge/A*-Path%20Planning-F39C12?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dijkstra-Graph%20Search-7F8C8D?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenCV-Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/K--Means-Clustering-16A085?style=flat-square" />
+</p>
+
+### Engineering / Spatial
+
+<p>
+  <img src="https://img.shields.io/badge/Three.js-3D-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-Automation-E51050?style=for-the-badge&logo=autocad&logoColor=white" />
+  <img src="https://img.shields.io/badge/DXF-Geometry-1363DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" />
+</p>
+
+### Data / Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+---
+
 # ⚙️ Technical Portfolio
 
 I build systems that translate **engineering problems and imperfect data into computational models, automation workflows, spatial reasoning, and autonomous decision systems**.
@@ -506,50 +548,6 @@ This project is intentionally secondary to the robotics and engineering-intellig
 | **Human-in-the-Loop Systems** | engineering validation and annotation workflows |
 | **Enterprise Automation** | Power Platform, Python, LMS, data workflows |
 | **Experimental Evaluation** | robotics scenarios, replay/backtesting, feasibility studies |
-
----
-
-# 🧰 Technology Stack
-
-### Core Development
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
-
-### Algorithms / Robotics / Vision
-
-<p>
-  <img src="https://img.shields.io/badge/Kalman-Filtering-8E44AD?style=flat-square" />
-  <img src="https://img.shields.io/badge/A*-Path%20Planning-F39C12?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dijkstra-Graph%20Search-7F8C8D?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenCV-Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/K--Means-Clustering-16A085?style=flat-square" />
-</p>
-
-### Engineering / Spatial
-
-<p>
-  <img src="https://img.shields.io/badge/Three.js-3D-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoCAD-Automation-E51050?style=for-the-badge&logo=autocad&logoColor=white" />
-  <img src="https://img.shields.io/badge/DXF-Geometry-1363DF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" />
-</p>
-
-### Data / Automation
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
-
----
 
 # 🧠 How I Approach Technical Problems
 
